@@ -1,0 +1,51 @@
+.img-section {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 15%;
+    padding-left: 5%;
+    height: 600px;
+}
+
+#first{
+    background-image: url(images/first.jpg);
+}
+#second{
+    background-image: url(images/second.png);
+}
+#third{
+    background-image: url(images/third.png);
+}
+#fourth{
+    background-image: url(images/fourth.png);
+}
+#fifth{
+    background-image: url(images/fifth.jpg);
+}
+#sixth{
+    background-image: url(images/sixth.jpg);
+
+}
+#footer-img{
+    background-image: url(images/company\ footer-logo.svg);
+}
+
+
+.img-section h2 {
+    font-size: 28px;
+    font-weight: 500;
+    color: #fff;
+}
+.img-section p {
+    font-size: 19px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.img-section p:last-child {
+    text-transform: uppercase;
+}
+
+.text-right {
+    text-align: right;
+}
